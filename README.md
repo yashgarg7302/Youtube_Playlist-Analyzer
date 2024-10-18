@@ -17,6 +17,9 @@ This Next.js application allows users to analyze YouTube playlists, displaying v
    ```bash
    npx shadcn-ui@latest add button input card
    ```
+5. Add PLaywright framework
+   ```bash
+   npx playwright install    
 
 ## Key Features
 
@@ -87,4 +90,3 @@ Before deploying, ensure your hosting environment supports server-side scraping 
 
 ---
 
-Take this project as a starting point for your own YouTube playlist analyzer application. Feel free to modify and customize it to suit your needs.
